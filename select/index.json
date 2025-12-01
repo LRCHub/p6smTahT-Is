@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "LION MELODY",
+  "base_artist": "JAKEN",
+  "createdAt": "2025-12-01T13:55:40.724584Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LION MELODY",
+      "artist": "Jaken",
+      "has_synced": false,
+      "path": "select/01_LION_MELODY_Jaken.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LION MELODY",
+      "artist": "JAKEN",
+      "has_synced": false,
+      "path": "select/pl_01_LION_MELODY_JAKEN.txt"
+    }
+  ]
+}
